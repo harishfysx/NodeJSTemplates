@@ -14,10 +14,10 @@ http://nodebootstrapper.herokuapp.com
 
 ##Contents:
 
-layout.jade
-header.jade
-footer.jade
-index.jade
+layout.ejs
+header.ejs
+footer.ejs
+index.ejs
 
 ##Editing Pages:
 

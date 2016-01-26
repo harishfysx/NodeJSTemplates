@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "dependencies": {
     "express": "*",
-    "jade": "*",
+    "ejs": "*",
     "stylus": "*",
 	"serve-favicon": "*",
 	"morgan": "*",
